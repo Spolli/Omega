@@ -1,5 +1,4 @@
 # Omega
----------------------
 A fork of original work of [Katgrills](https://github.com/Catgrills). 
 ## Feature
 	* dynamic menu
