@@ -1,5 +1,11 @@
 # Omega
 A fork of original work of [Katgrills](https://github.com/Catgrills). 
+
+![screenshot](https://i.imgur.com/FgWBbXU.jpg)
+New Color
+![screenshot](https://i.imgur.com/gx7NBCm.jpg)
+New girls
+
 ## Features
 	- dynamic menu
 	- multiple tab
