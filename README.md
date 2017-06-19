@@ -32,7 +32,19 @@ var search = [
 ```
 Just type the browser you need (ex. !y => youtube) put a space, and type the subject yu want to search
 Example:
+
 	- !i hentai
 	- !my Spolli
+	
+### Customize
+If you want to add more shortcut:
 
-### Credits Spolli & [Katgrills](https://github.com/Catgrills)
+	- First Column insert '!' follow by the shortcut you want
+	- Second Column insert the query link of the site
+
+Source and Credits
+-------------------------------
+The avatars used are from : [Ilya](http://kuvshinov-ilya.tumblr.com/)
+The css and html are from: [Katgrills](https://github.com/Catgrills)
+
+###### My English is so bad, sorry
